@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+f:\проекты_visual_studio\ppo_laba2\ppo_laba2\rlist.h(79): warning C4383: 'RList<T>::Iterator::operator *': the meaning of dereferencing a handle can change, when a user-defined '*' operator exists; write the operator as a static function to be explicit about the operand
+  f:\проекты_visual_studio\ppo_laba2\ppo_laba2\rlist.h(92): note: see reference to class template instantiation 'RList<T>::Iterator' being compiled
+  f:\проекты_visual_studio\ppo_laba2\ppo_laba2\rlist.h(95): note: see reference to class template instantiation 'RList<T>' being compiled
+f:\проекты_visual_studio\ppo_laba2\ppo_laba2\addform.h(127): warning C4101: 'ex': unreferenced local variable
+f:\проекты_visual_studio\ppo_laba2\ppo_laba2\rlist.h(79): warning C4383: 'RList<int>::Iterator::operator *': the meaning of dereferencing a handle can change, when a user-defined '*' operator exists; write the operator as a static function to be explicit about the operand
+  f:\проекты_visual_studio\ppo_laba2\ppo_laba2\myform.h(225): note: see reference to class template instantiation 'RList<int>::Iterator' being compiled
+f:\проекты_visual_studio\ppo_laba2\ppo_laba2\myform.h(265): warning C4101: 'ex': unreferenced local variable
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AddForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PPO_laba2.vcxproj -> F:\проекты_visual_studio\PPO_laba2\Debug\PPO_laba2.exe
